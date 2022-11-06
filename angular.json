@@ -24,6 +24,8 @@
             ],
             "styles": [
               "src/styles.css"
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/ngx-toastr/toastr.css"
             ],
             "scripts": []
           },
@@ -97,5 +99,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "59fdacb6-2b33-4400-b80b-293a6db56f8e"
   }
 }
